@@ -39,8 +39,8 @@ and i start making the config.py with all the variable like port and id for the 
 i also learn the 21/07 how to make kinematic_inverse for my robot paw mouvement so i passe like 3H understanding and visualizing the thing on my paper sheet andw with the help of claude ia that help me understand a bit to re-learn trigonometry things 
 and finally write it in code kenematic.py and start the servo_controller.py with the declaration "import" and the opennign of the usb port and prevent from error or not closing  because claude teach me about the 
 
-try: """my code""" finally: """closing port"""
--
+### try: """my code""" finally: """closing port"""
+
 it's a python thing to make sure that even if i have a issue the port will close and it prevent from error when i will reopen "already open problem"
 to end i learn how to make the files.py interconnect an create a DEF mouvement() to in the future make a gait.py and make my robot having a real walk 
 
