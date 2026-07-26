@@ -50,4 +50,31 @@ these 2 day where filled with constant learning deception hope and desire to mak
 see you next day (tomorow i'm going to hang out with my bro at gym to renforce my knees and then i will continue working on that project)
 
 
+# 26/07/2026 2:14AM 
+### __the best new i could have today!!!!__
+
+##### i know it's been some day !! in fact i was in another project "a game for my friend" i'm making. so i take me some time but i recive a so great new that i finaly come back to my house .to work on this project
+
+
+| the new is  | what am i doing in consequence |
+| ------------- |:-------------:|
+| hackclub respond to me !!      | so i read the mail like 4 time (i was very hppy)     |
+| they tell me i can apply !  | so i read the requirement     |
+| they said i need to give the design (wiring / 3D / material / pcb)      | so today i'm keeping the work on the model   |
+
+## First of all
+i remenber i wanted to add a camera that will track body shape(or other).
+So it need to be moving a bit, i finaly add in the project a new servomotor __but a litle one this time__ *a SG90* because it will only support the camera and support (i found it after 30min research because i wasn't having the diff between the one i use as paw and the SG90)
+
+## then 
+
+#### i came back work on the visual of my robot ( the box that will cover the chasis)
+
+__i start makig litle wall and make hole in the emplacement of the motor (took me 1HOURS because i still struggling with the 3D app)__ *to be sure they wont be blocked*
+
+## that all for today but don't worry i will came back
+
+
+
+
 
