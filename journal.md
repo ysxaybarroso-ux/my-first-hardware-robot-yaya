@@ -75,6 +75,66 @@ __i start makig litle wall and make hole in the emplacement of the motor (took m
 #### that all for today but don't worry i will came back
 
 
+# 02/08/2026 1:00pm 
+### !!! __we're near from the end of designing__  !!!!!!
+##### i know it's been  a week !! in fact i was so fucused to update and everytime i end the work of the day i were like 4am. I PASS OVER 20H working since last time!
+
+### the PCB research and change
+---------------
+
+##### i recive another mail from stardance (hackclub) because i ask them so question and guidance. then they respond to me about my raspberry and said it was quit costfull (they are right!) so i make a research to found a less costfull but that still contain the power i need 
+*i wasn't able to build my PCB because i need a lot of calculation power for the future litle llm i will put in*
+
+
+| problem  | fuison 3d design changes |
+| ------------- |:-------------:|
+| raspberry model | new 3d box model | 
+| buck converter only raspberry | changing for one with usb-c 5v| 
+| i was using raspberry usb-a  | cable change usb-c to usb-c now|
+| the heatsink and fan system|  new one with heat sink + fan (PCB very hot) | 
+
+and other litle change on the price sheet. So the price went from 1000 to 700 and then 750 with the litle change 
+
+*i don't know how to make it less costfull TT*
+
+** to end with that i pass over 5 hour screaching the composant that are compatible and looking at the doc finding out that the pcb went very hot some time ( i choose the radxa 3w), during this time i also change the oled to make i bigger because i LOVE SCREEN WHERE I CAN DRAW ON 
+
+_____________
+### diagram and design
+
+**the logic following step were making a wiring diagram and design for my robot** 
+
+so i start my first use of "KICAD", i've make a litle diagram that help me organize the  wire connection.
+##### i was battling agaisnt some problem of "were can i connect this cable" as some were 
+- **_"usb-c"_** 
+- other were **_"12awg"_** 
+- or even **_"litle cable"_** 
+
+##### i also got a problem with the usage of the space i have( i'm dysgraphic so quit complicated all the work i'm doing) as the schema was hard to understand so i pass a time to make it clear 
+
+it all took me like 4 hour to understand how kicad work and do this litle design.
+
+--------
+
+### making the visual chasis and make this robot BEAUTIFULL (or not)
+
+__i tink i've already start it last time but this yime i pass over 11h trying to make something (2day!)__ *to end by delete all the work*
+
+- **i first make the front with holes and chamfer** i intend to make my robot look like a version 4 paw of 
+[BT7274](https://www.google.com/search?sca_esv=f745035f8560aefd&rlz=1C1GCEA_frFR1170FR1170&sxsrf=APpeQnu7M_QMc_DzJvH4ZT4Qv5LLp270jg:1785438280740&udm=2&fbs=ABfTbFUDadgeu2mn4mYJ8iEZ1GUDDuwRa4um-2LNhBFWIpqZc3x8792U5ZVg9NxUywAiNAAK9LTph7mlss0iXxz9ohv5X4K06bW0PTrZtlKhUziN3xNuDBluxKmAlxWKdwzlp51FGvsHCD0r8xIGZIwYbnp3xsaIfLAm8cNnOJDz24qChps0X6nUQI7A8UmrQxfSItuiqSmzkbh_lvaJyRrOoUDvQ6dnvQ&q=bt7274&sa=X&ved=2ahUKEwj_sffzi_uVAxWfhv0HHYBnCQoQtKgLegQIERAB&biw=1280&bih=598&dpr=1.5) so i add a lot of detail but at the end ( 7h after) i found it to rectangular but. i pass so much time that i don't even wanted to come back so let it like that
+ - **then the roof was the determinant of the delete canon event** as i was making the top i keep seeing this ugly rectangular font and sudenly i gave up( that not who i am normaly). *after 2h*
+
+#### the second visual chasis canon event
+__as i told you i'm dysgraphic so the second one was another fail__
+
+- now my inspiration was the [seasme robot](https://www.google.com/search?q=seasme+robot&sca_esv=f745035f8560aefd&rlz=1C1GCEA_frFR1170FR1170&udm=2&biw=1280&bih=598&sxsrf=APpeQnuIOhkubGcRLw7zM4x-pHBNEq5AUg%3A1785437372807&ei=vJxravbzMIXZ7M8PjaOdyQI&ved=0ahUKEwj2wf_CiPuVAxWFLPsDHY1RJykQ4dUDCBE&uact=5&oq=seasme+robot&gs_lp=Egtnd3Mtd2l6LWltZxoCGAIiDHNlYXNtZSByb2JvdDIJEAAYgAQYExgKSK0_UMABWME-cAh4AJABAJgBrAKgAfMRqgEHNy44LjEuMbgBA8gBAPgBAZgCGaACzRXCAg0QABiABBiKBRhDGLEDwgIGEAAYBxgewgIKEAAYgAQYigUYQ8ICCBAAGIAEGLEDwgIHECMYyQIYJ8ICBRAAGIAEwgIHEAAYgAQYCsICCxAAGIAEGLEDGIMBwgIIEAAYgAQYiwPCAgoQABiABBgKGIsDwgIJEAAYgAQYChgLwgIMEAAYgAQYChgLGLEDmAMAiAYBkgcJMTAuMTMuMS4xoAf-SrIHCDIuMTMuMS4xuAeTFMIHCjAuMS40LjEyLjjIB_8CgAgB&sclient=gws-wiz-img#sv=CAMSXhoyKhBlLUhpQ1RtV3BHWHEtNFVNMg5IaUNUbVdwR1hxLTRVTToOb3dUbDYzN1MxbVR2V00gBCokCg5UeThheVBFcnZNa1pCTRIQZS1IaUNUbVdwR1hxLTRVTRgAMAEYByC2j8nQDUoIEAEYASABKAE) (like a cat)
+- i started with the ears (i make 2 elipse and one triangle then extrude than dig the ears *took me 2h* )
+- to end i just rotate the front and make a "filet" to make the chasis more round to the edge (30min approximative) 
+- __finally__ i keep this model aside but i don't really like it yes again i fail! 
+
+#### so i ask my friend for inspiration and help as lot of them are artist(i'm waiting for their response )
+----
+ that a lot for today  i hope i will soon be able to send all the schematic and start coding!!!!
 
 
 
