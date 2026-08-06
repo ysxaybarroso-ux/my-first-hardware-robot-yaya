@@ -136,5 +136,28 @@ __as i told you i'm dysgraphic so the second one was another fail__
 ----
  that a lot for today  i hope i will soon be able to send all the schematic and start coding!!!!
 
+# 06/08/2026 still working on robot chasis for near 15 that i dev log on stardance now
 
+### yess recently i text mail stardance as their hardware section work yippie !! and now i devlog on stardance !!
+
+__but i'm not letting you down so here i make a resume of what i wirte in stardance__
+
+#### *today i nearly finish the chasis*
+### in fist place i've making the base of the chasis with a new idea of animal 
+__i choose the turtle as i don't know why it pop on my head a random moment__
+#### so i screach up for turtle image and do my best to make tyhe chasis in fusion!! *on the first part i just make the under look and a sphere( sketch > elipse > cut >revoltion) for the above and the head (i'm very proud) with enplacement for the motor that will turn the head, the camera above this one and the oled for look*
+
+### in a second part !
+
+##### i've working on how to put texture for 5hour i was screaching in all the fusion360 menu but it was a good result the triangle on my sphere were breaking the texture and multippling it so i ask google (as now in france it's new ot got an IA) and he gave me the name of this web site __*" Bump Mesh "*__
+
+* i found the texture i want
+* cut the back let space for the leg
+
+  ## for the code
+
+  ##### i've been removing the distance sensor as i don't tell you here (i forgot) but for efficiency i remplace by a lidar and i start also by coding it  but not the mapping and reaction to an object 
+
+
+#### that all for these 15h because not a lot of change but a lot of research
 
