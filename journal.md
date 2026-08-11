@@ -229,7 +229,7 @@ graph TD
 
 
  __did i cook?__
- ![tony stark](https://www.google.com/search?q=tony+stark++meme+&sca_esv=b21e0fc4ad4b3263&rlz=1C1GCEA_frFR1170FR1170&udm=2&biw=1280&bih=598&sxsrf=APpeQnv7h7Xah1r4esM_kiJmb2ORZufE6w%3A1786473841375&ei=cW17at-nFsXw7M8Pq6fe6Qg&ved=0ahUKEwifpNzVnZmWAxVFOPsDHauTN40Q4dUDCBE&uact=5&oq=tony+stark++meme+&gs_lp=Egtnd3Mtd2l6LWltZyIRdG9ueSBzdGFyayAgbWVtZSAyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeSM4iUPUBWMYWcAB4AJABAJgBaqABwQWqAQM5LjG4AQPIAQD4AQGYAgqgAqsGwgIKEAAYgAQYigUYQ8ICBhAAGAcYHsICBxAAGIAEGBPCAgYQABgeGBPCAggQABgFGB4YE8ICCBAAGAgYHhgTwgIIEAAYBxgeGBPCAggQABgHGB4YCsICCBAAGAgYBxgemAMAiAYBkgcDOS4xoAfCPLIHAzkuMbgHqwbCBwUyLTQuNsgHVoAIAQ&sclient=gws-wiz-img#sv=CAMSURoyKhBlLXhGQzV6ZHFQZlJuYkNNMg54RkM1emRxUGZSbmJDTToOSjQyMXVhZUZuUWlwdU0gBCoXCgFzEhBlLXhGQzV6ZHFQZlJuYkNNGAEwARgHIIDquesJSggQARgBIAEoAQ)
+ ![tony stark](https://preview.redd.it/hey-jarvis-tony-stark-smirking-iron-man-v0-g2txj6kqv6xf1.png?auto=webp&s=88fdb3c3f4cf08d5c962d2fe0a76ea7a27942c46)
 *hell nah..*
 
 see nex time I'm starting the CODE
