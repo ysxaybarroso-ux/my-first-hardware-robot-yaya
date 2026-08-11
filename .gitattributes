@@ -1,0 +1,9 @@
+3D-model/**/*.f3d
+git[[:space:]]lfs[[:space:]]track[[:space:]]3D-model/**/*.f3d
+git[[:space:]]lfs[[:space:]]track[[:space:]]3D-model/**/*.f3d filter=lfs diff=lfs merge=lfs -text
+3D-model/**/*.step filter=lfs diff=lfs merge=lfs -text
+3D-model/**/*.stp filter=lfs diff=lfs merge=lfs -text
+3D-model/**/*.f3z filter=lfs diff=lfs merge=lfs -text
+3D-model/**/*.STEP filter=lfs diff=lfs merge=lfs -text
+3D-model/**/*.stl filter=lfs diff=lfs merge=lfs -text
+3D-model/**/*.SLDPRT filter=lfs diff=lfs merge=lfs -text
