@@ -161,3 +161,76 @@ __i choose the turtle as i don't know why it pop on my head a random moment__
 
 #### that all for these 15h because not a lot of change but a lot of research
 
+# 11/08/2026 what a rought rush!
+  ## to set the storyline clear this is the recap of dev log 3 AND 4 AND maybe 2  
+
+### first of all the bad new...
+
+
+**i lost 10h rec on lapse for stardance so i came for 20h dev log but only 10h regiter in stardance unfortunatly !!**
+
+### the new
+
+**i start the eyes animations !! i took an old project made on stardance *"my-first-keychain"* with basic animation and add new one like YES or NOT and the different state like _FOLLOW/ NAVIGATE/ STATIC/ MANUAL/_**
+
+**then i also make a version with a turtle face only for the FOLLOW state of the robot.it took me a long time (i add ~130-140 frame to the original anim that got 60 i think don't truly remenber)**
+
+
+
+### the GOOD NEW!! yippie (good ending)
+
+###*i finish the 3d design* (for now)
+
+**yes !! i fact i finish the 3d model i end with creating the cables in 3 making holes for them placing the lidar and the microphone for the vocal reconizing**
+
+#### i finish the model PAW and add some texture for relief then i add them to the main part of the robot
+
+## finaly my 3d model is done but if i have to learn thing:
+
+* i need a better pc :-( ) as during the process i can't count the CRASH adn the LOST version only because of my pc making white screen and let me no solution after 1H wait to close the app 
+* next time i will make 2 chasis a basic one think for the wire and a second that will make the look that goes over the 1st one 
+  * as mine is quite messy i had problem to pass cable and some cable still visible (this will be for the 1.5 version of my project maybe)
+
+* i can live and focus as these recent days i cannot live or go/hang out or even play video game/ shop food/ threw the garbage without keep think of the project. that maybe a sign that i have to organize more my work 
+
+## for CODE
+ 
+ *i've pass a long time learning the node pakage for ROS2 *
+ ### in fact i use the NAV2/ SLAM in ROS pakage to make a real map and navigation system so it took me a lot of work to learning it!
+ **but IA help me understand and do not just make the code (but i admit it HELP ME A LOT!!)**
+
+so i make somepy files to calculate and make the robot navigate BUT i also just start to make the wifi connection check and have an impact on if the  robot use  IA by API or my LLM !
+
+OKAY let try to make a graphic in markdown!
+
+```mermaid
+graph TD
+  A[code] --> B{Decision}
+
+  B -->|core-sys| C[core]
+  C --> D{files}
+  D -->|config| E[config.py]
+  D -->|servo_controller.py| F[servo_controller.py]
+  D --> |kinematic.py| G[kinematic.py]
+  D --> |gait.py| H[gait.py]
+
+  B -->|perception-sys| I[perception]
+  I --> J{files} 
+  J -->|connectivite.py| K[connectivite.py]
+  J -->|distance_sensor.py| L[distance_sensor.py]
+  J -->|lidar_ros_node.py| M[lidar_ros_node.py]
+  J -->|odom_ros_node.py| N[odom_ros_node.py]
+
+  B -->|launch| O[launching at the start]
+  O --> P{files}
+  P -->|launch_robot.py| Q[launch_robot.py]
+  
+```
+
+
+ __did i cook?__
+ ![tony stark](https://www.google.com/search?q=tony+stark++meme+&sca_esv=b21e0fc4ad4b3263&rlz=1C1GCEA_frFR1170FR1170&udm=2&biw=1280&bih=598&sxsrf=APpeQnv7h7Xah1r4esM_kiJmb2ORZufE6w%3A1786473841375&ei=cW17at-nFsXw7M8Pq6fe6Qg&ved=0ahUKEwifpNzVnZmWAxVFOPsDHauTN40Q4dUDCBE&uact=5&oq=tony+stark++meme+&gs_lp=Egtnd3Mtd2l6LWltZyIRdG9ueSBzdGFyayAgbWVtZSAyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeSM4iUPUBWMYWcAB4AJABAJgBaqABwQWqAQM5LjG4AQPIAQD4AQGYAgqgAqsGwgIKEAAYgAQYigUYQ8ICBhAAGAcYHsICBxAAGIAEGBPCAgYQABgeGBPCAggQABgFGB4YE8ICCBAAGAgYHhgTwgIIEAAYBxgeGBPCAggQABgHGB4YCsICCBAAGAgYBxgemAMAiAYBkgcDOS4xoAfCPLIHAzkuMbgHqwbCBwUyLTQuNsgHVoAIAQ&sclient=gws-wiz-img#sv=CAMSURoyKhBlLXhGQzV6ZHFQZlJuYkNNMg54RkM1emRxUGZSbmJDTToOSjQyMXVhZUZuUWlwdU0gBCoXCgFzEhBlLXhGQzV6ZHFQZlJuYkNNGAEwARgHIIDquesJSggQARgBIAEoAQ)
+*hell nah..*
+
+see nex time I'm starting the CODE
+
