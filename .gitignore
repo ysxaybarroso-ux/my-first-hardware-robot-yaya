@@ -1,2 +1,3 @@
 code/perception/vosk-model-small-en-us-0.15/
  .env
+behavior/piper_voice/
