@@ -1,7 +1,7 @@
 today is the first day of my project to build a real and intelligent robot wich i will add feature as i learn them
 =
 i'm starting by making like 2hour research to understand what i'm going to work on and then i buy fusion 360 with my school card
-then i try to understand the app and start t make the first leg of my robot (chat gpt codex help me a bit to understand how i can do) so i pass over 1 hour starting doing it
+then i try to understand the app and start t make the first leg of my robot (chat gpt codex help me a bit to understand how i fusion 360 work ) so i pass over 1 hour starting doing it
 
 we  are the 17/072026 03:03am 
 =
@@ -242,7 +242,7 @@ see nex time I'm starting the CODE
 __SO first of all i ask "claude ia" (unfortunatly it's my 2nd hardware project so i don't how to use api and ia.
 Then claude response me to check the google gemini doc and i make thing clear!__
 
-#### but befero start ia i have to make the  STT ( speach to text/vocal reconnizing) so i  found vosk and use a model that is near from bt7274 voice (a robot in a game btw)  and i code... don't how to explain but i fisrt of all make the robot react if i say his name "nessie" (from titanfall2 or apex) and then the program check if the next word are an order or not (`if mot is in ["left","right"]` a thing like that) and he react to these but then if it's a simple hello he give the text to gemini ia or my LLM  and then... then.... i remember i don't have vocal response so i had to the list a speaker and a amplifier and here we go to make some change in the 3d model en kidcad schema ! but now that we and this ! our robot can talk to you! 
+#### but before start ia i have to make the  STT ( speach to text/vocal reconnizing) so i  found vosk and use a model that is near from bt7274 voice (a robot in a game btw)  and i code... don't how to explain but i fisrt of all make the robot react if i say his name "nessie" (from titanfall2 or apex) and then the program check if the next word are an order or not (`if mot is in ["left","right"]` a thing like that) and he react to these but then if it's a simple hello he give the text to gemini ia or my LLM  and then... then.... i remember i don't have vocal response so i had to the list a speaker and a amplifier and here we go to make some change in the 3d model en kidcad schema ! but now that we and this ! our robot can talk to you! 
 
 ### then the  camera and the map
 
@@ -253,7 +253,7 @@ then i start the camera "tracking" by using a library called c2v and utralitics 
 
 ### TO END THE  WEB PAGE
 
-#### i start by using the map the lidar is making and show it to the screen so it's all about passing list thought node then python then html with flask then i handle the click with js and it send the click pos to the robot and he goes (that not that magic it a lot of litle thing behind TT) and i also make the camera track same as themap but now it show the camera preview of the robot and make boxe around shape and then.. i handle the click to follow this one by checking image by image the deplacement of the center of this box. all of this by using route like:  
+#### i start by using the map the lidar is making and show it to the screen so it's all about passing list thought node then python then html with flask then i handle the click with js and it send the click pos to the robot and he goes (that not that magic it a lot of litle thing behind TT) and i also make the camera track same as the map but now it show the camera preview of the robot and make boxes around body-shape and then.. i handle the click to follow this one by checking image by image the deplacement of the center of this box. all of this by using route like:  
 ```
 @app.route('/carte')
 def envoyer_carte():
@@ -314,7 +314,7 @@ def recevoir_objectif():
     carte.action_client.send_goal_async(goal_msg)
     return "ok"
 ```
-#### and for the nex thing about web it's the  manual system so i use add eventlistenner and by tracking the mouve distance of the "joystick" i relate it in the code and then aply i the robot mouvement!
+#### and for the next thing about web it's the manual system so i use add eventlistenner and by tracking the move-distance of the "joystick" i relate it in the code and then apply it the robot mouvement!
 
 ### for the next step!!!
 __i'm starting the stability sensor and claude help me with geometry like COS SIN TAN i know it's thebasic but i have some struggle with these even tho i have a great normal level in math__
@@ -330,5 +330,5 @@ __i'm starting the stability sensor and claude help me with geometry like COS SI
 
 ## i want to end by tell the ia use in my project :
  ## you all know about te ia geminie and llm but i talk about claude use i really want to show the details of the project and how a total begennier came to do that and yes i use claude like a teacher and if you want to use ia i can only give you the advice to not use it to make the code... tell it how it work? why did you tell me that? can you bring me the doc? i know it's even better if we don't use ia but as total begennier this project would take me years instead of month when i use ia so to know i use ia to understand new thing  like all along this project i'm learning : linux/ROS/NAV/VOSK/FLASK/NODE/JSON/PYTHON/DEBIAN_OS/CONTAINERS/BASIC ELECTRONIC CIRCUIT/ A TONS OF LIBRAIRY/ ODOMETRY/LIDAR USE/ROUTE/TRYGONOMETRY/KICAD/FUSION360 and to learn all of that claude i a great way to help me navigate thought these subject! 
- ## that all for today i hope you're having a nice day and enjoy following me see you nex time!
+ ## that all for today i hope you're having a nice day and enjoy following me see you next time!
  
