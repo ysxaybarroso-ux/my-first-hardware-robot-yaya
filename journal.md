@@ -234,3 +234,101 @@ graph TD
 
 see nex time I'm starting the CODE
 
+# HEY THE CODE IS NEAR FROM THE END 15/08/2026 + 10H
+## these day i've been work on the ai thing, the camera/map and the web page to control the robot
+
+### to start THE IA "THING"(bruh)
+*to remenber the last time the goal was to use gemini ai api when the robot is on wifi and LLM(local ia) ~3gb when he's offlline*
+__SO first of all i ask "claude ia" (unfortunatly it's my 2nd hardware project so i don't how to use api and ia.
+Then claude response me to check the google gemini doc and i make thing clear!__
+
+#### but befero start ia i have to make the  STT ( speach to text/vocal reconnizing) so i  found vosk and use a model that is near from bt7274 voice (a robot in a game btw)  and i code... don't how to explain but i fisrt of all make the robot react if i say his name "nessie" (from titanfall2 or apex) and then the program check if the next word are an order or not (`if mot is in ["left","right"]` a thing like that) and he react to these but then if it's a simple hello he give the text to gemini ia or my LLM  and then... then.... i remember i don't have vocal response so i had to the list a speaker and a amplifier and here we go to make some change in the 3d model en kidcad schema ! but now that we and this ! our robot can talk to you! 
+
+### then the  camera and the map
+
+__i start with the map using the last time work with the lidar to now allow the robot to move to a certains position by choosing on your device the location *see next in the web thing*
+then i start the camera "tracking" by using a library called c2v and utralitics as it's way more easier so with these librairy it draw a rectangle around people shape and the camera follow one by using the in screen position of the click on the web and convert into angular and linear factor to "chase" (scary ouhhhh) the person__
+
+#### with that i the litle sg90 motor i had: because if the person move to the side of the robot the time the robot take to turn he can no longer  follow the shape so to help the head move with the camera to have a more fluent tracking.
+
+### TO END THE  WEB PAGE
+
+#### i start by using the map the lidar is making and show it to the screen so it's all about passing list thought node then python then html with flask then i handle the click with js and it send the click pos to the robot and he goes (that not that magic it a lot of litle thing behind TT) and i also make the camera track same as themap but now it show the camera preview of the robot and make boxe around shape and then.. i handle the click to follow this one by checking image by image the deplacement of the center of this box. all of this by using route like:  
+```
+@app.route('/carte')
+def envoyer_carte():
+    image = generer_image_carte()
+    buffer = io.BytesIO()
+    image.save(buffer, format='PNG')
+    buffer.seek(0)
+    return send_file(buffer, mimetype='image/png')
+
+@app.route('/')
+def page_html():
+    return render_template('index.html')
+@app.route('/camera')
+def envoyer_camera():
+    if camera.personne_detectee is None:
+        return "no one in the zone yet"
+    image_annotee = camera.personne_detectee[0].plot()
+    succes , buffer_encode = cv2.imencode('.png' , image_annotee)
+    return send_file(io.BytesIO(buffer_encode) , mimetype='image/png')
+
+@app.route('/choisir_personne', methods=['POST'])
+def choisir_personne():
+    donnees = request.json
+    click_x = donnees['x']
+    click_y = donnees['y']
+    for boite in camera.personne_detectee[0].boxes:
+        x_min, y_min, x_max, y_max = boite.xyxy[0]
+        if x_min <= click_x <= x_max and y_min <= click_y <= y_max:
+            camera.cible_x = (x_max + x_min) / 2
+            camera.cible_y = (y_min + y_max)  / 2
+        return "ok"
+
+@app.route('/manual', methods=['POST'])
+def recevoir_manual():
+    donnees = request.json
+    state.manual_angular_y = donnees['dx']
+    state.manual_linear_x = donnees['dy']
+    return "ok"
+
+@app.route('/manual_camera', methods=['POST'])
+def recevoir_manual_camera():
+    donnees = request.json
+    state.camera_angular_z = donnees['dx']
+    return "ok"
+
+@app.route('/objectif', methods=['POST'])
+def recevoir_objectif():
+    donnees = request.json
+    x = donnees['x']
+    y = donnees['y']
+    x_real = derniere_carte.info.origin.position.x + x *  derniere_carte.info.resolution
+    y_real = derniere_carte.info.origin.position.y + y *  derniere_carte.info.resolution
+    goal_msg = NavigateToPose.Goal()
+    goal_msg.pose.header.frame_id = 'map'
+    goal_msg.pose.pose.position.x = x_real
+    goal_msg.pose.pose.position.y = y_real
+    goal_msg.pose.pose.orientation.w = 1.0
+    carte.action_client.send_goal_async(goal_msg)
+    return "ok"
+```
+#### and for the nex thing about web it's the  manual system so i use add eventlistenner and by tracking the mouve distance of the "joystick" i relate it in the code and then aply i the robot mouvement!
+
+### for the next step!!!
+__i'm starting the stability sensor and claude help me with geometry like COS SIN TAN i know it's thebasic but i have some struggle with these even tho i have a great normal level in math__
+
+* after that
+ * the js click to change the state
+ * the vocal ability to change the state
+ * the use of the oled screen to show the state or even allow ia to control by draw an use them depending on the interaction
+ * verify every litle part of the code i connected
+* if i have the will to do it or maybe in a v2
+ * maybe a V2 the ability to walk thought stairs
+ * maybe some emote
+
+## i want to end by tell the ia use in my project :
+ ## you all know about te ia geminie and llm but i talk about claude use i really want to show the details of the project and how a total begennier came to do that and yes i use claude like a teacher and if you want to use ia i can only give you the advice to not use it to make the code... tell it how it work? why did you tell me that? can you bring me the doc? i know it's even better if we don't use ia but as total begennier this project would take me years instead of month when i use ia so to know i use ia to understand new thing  like all along this project i'm learning : linux/ROS/NAV/VOSK/FLASK/NODE/JSON/PYTHON/DEBIAN_OS/CONTAINERS/BASIC ELECTRONIC CIRCUIT/ A TONS OF LIBRAIRY/ ODOMETRY/LIDAR USE/ROUTE/TRYGONOMETRY/KICAD/FUSION360 and to learn all of that claude i a great way to help me navigate thought these subject! 
+ ## that all for today i hope you're having a nice day and enjoy following me see you nex time!
+ 
