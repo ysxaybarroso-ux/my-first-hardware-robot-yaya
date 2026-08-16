@@ -27,13 +27,15 @@ i'm starting drawing the screen (head ) of the robot with piskel (VERYY USEFULL)
 
 to end i take the direction first to make a look, as bastion in OVERWATCH but then i remenber MY CHILDHOOD/FAVORITE/MOST EXTRODINARY ROBOT GAMES !! TITANFALL2!!!! SO I'm inspiring myself from BT7274 (the main character's robot/bro)
 
-i'm trying to keep my motivation as i don't really love 3d designing it's very hard!! (but i love 2 drawing) i hope i'm not making all of this to finaly don't found the founding i need
+i'm trying to keep my motivation as i don't really love 3d designing it's very hard!! (but i love 2 drawing) i hope i'm not making all of this to finaly don't found the founding i need  
+
+##### + 5hour  designing on my book the chasis with some dimension
 
 
 starting the code !!! and also the bigest flop/fail of my life 22/07/2026
 =
-today i open instagram to see if anyone would buy my little key chain to help me buy the composant i need for my project (i even reduce the cost an the cost was very low like their nearly only paid the composant)  but no one show up !! NO ONE WOULD HELP ME CREATE THIS ROBOT  (except ONE BRO THAT WANTED BUT I WANT TO MAKE HIM PAYS LESS AS HE SUPPORT ME EVERYTIME FOR ALL THING I MAKE IN MY LIFE!)
-after this big fails i was quite down a little so i came back to my mail for hackclub and i think they don't see it or i do not make the right way the asking(i think that it because hackclub are a very great... "nonprofit network" (i guess..)
+today i open instagram to see if anyone would buy my little key chain to help me buy the composant i need for my project (i even reduce the cost an the cost was very low like they nearly only paid the composant)  but no one show up !! NO ONE WOULD HELP ME CREATE THIS ROBOT i understand nowday it's hard to live in france TT (except ONE BRO THAT WANTED BUT I WANT TO MAKE HIM PAYS LESS AS HE SUPPORT ME EVERYTIME FOR ALL THING I MAKE IN MY LIFE!)
+after this big fails i was quite down a little so i came back to my mail for hackclub and i think they don't see it or i do not make the right way the asking(i think that it because hackclub are a very great "nonprofit network"! 
 and then i finally open vs code to boost my moral as i was quite low and thinking about if i was just dreaming 
 and i start making the config.py with all the variable like port and id for the servomotor (i will need to configure them irl but now i can't buy the composant)
 i also learn the 21/07 how to make kinematic_inverse for my robot paw mouvement so i passe like 3H understanding and visualizing the thing on my paper sheet andw with the help of claude ia that help me understand a bit to re-learn trigonometry things 
@@ -48,6 +50,11 @@ the most difficult these days are VISUALISATION as i can't have the comoponent t
 these 2 day where filled with constant learning deception hope and desire to make big thing and learn thing 
 (by the way as an athlete i'm coming back from an 3month injury and everything that was easy feel hard and i'm anxious about my alimentation when everything fall apart and how hard is it to came back. but i'm fuly  fill with outpassing my limit desire and dream from my old perf)
 see you next day (tomorow i'm going to hang out with my bro at gym to renforce my knees and then i will continue working on that project)
+
+#### total in hours about 3hour of coding research (just doc and logic forum) 
+i didn't count the youtube video of course 
+adding to 
+and likely 4h research for composant ( not detail in the journal but i was screarching for adaptator,cables,sensor, and their 3d model
 
 
 # 26/07/2026 2:14AM 
@@ -72,7 +79,7 @@ So it need to be moving a bit, i finaly add in the project a new servomotor __bu
 
 __i start makig litle wall and make hole in the emplacement of the motor (took me 1HOURS because i still struggling with the 3D app)__ *to be sure they wont be blocked*
 
-#### that all for today but don't worry i will came back
+#### that all for today but don't worry i will came back total hour 5H30min 1h of constant crash of my pc 2h of hell strugle on fusion 2h pure happiness designing + 30 min for product research
 
 
 # 02/08/2026 1:00pm 
@@ -136,7 +143,7 @@ __as i told you i'm dysgraphic so the second one was another fail__
 ----
  that a lot for today  i hope i will soon be able to send all the schematic and start coding!!!!
 
-# 06/08/2026 still working on robot chasis for near 15 that i dev log on stardance now
+# 06/08/2026 still working on robot chasis for near 15hour that i dev log on stardance now
 
 ### yess recently i text mail stardance as their hardware section work yippie !! and now i devlog on stardance !!
 
@@ -331,4 +338,24 @@ __i'm starting the stability sensor and claude help me with geometry like COS SI
 ## i want to end by tell the ia use in my project :
  ## you all know about te ia geminie and llm but i talk about claude use i really want to show the details of the project and how a total begennier came to do that and yes i use claude like a teacher and if you want to use ia i can only give you the advice to not use it to make the code... tell it how it work? why did you tell me that? can you bring me the doc? i know it's even better if we don't use ia but as total begennier this project would take me years instead of month when i use ia so to know i use ia to understand new thing  like all along this project i'm learning : linux/ROS/NAV/VOSK/FLASK/NODE/JSON/PYTHON/DEBIAN_OS/CONTAINERS/BASIC ELECTRONIC CIRCUIT/ A TONS OF LIBRAIRY/ ODOMETRY/LIDAR USE/ROUTE/TRYGONOMETRY/KICAD/FUSION360 and to learn all of that claude i a great way to help me navigate thought these subject! 
  ## that all for today i hope you're having a nice day and enjoy following me see you next time!
- 
+
+ # 16/08/2026 1 pm
+ # I GUESS IT THE END OF THE BEGINNING !!
+ ### i have finish all the work a i can for NOW
+ __i said for now because some litle part of code are commentary as i can do them without the exact material__
+ ### but for now i'm ready to send my work to stardance!!!!! (yippie i run a hight elevated hill to celebrate :) 11km in 1H14 with 330m of elevation (the elevation of the tour eiffel in france i'm literaly flexing that ridiculous TT)
+
+ ## so to came here yesterday i finish some little thing!
+ ### the oled display animating depending the state or anything like that
+ **using the state_machine.py and i had a litle easter egg if you says "nessie mode turtle she will display the same animation but a face more like a turtle than just eyes**
+ ### i handle the changing state with the voice
+ **include a check in the vocal order if there is the name of an state**
+ ### i make the js button and the s css 
+ **this was literaly a chill part as i know the most js (i make some games in js) so i make a header with the date and time and also a shutdown button that will instantly cut the robot to off (using fetch --> app.route ) and i also make the left columns to chose your mode with button**
+ ### check if every piece of the code is correctly launch/use/call 
+ **because i found out some of them wasn't launch and even set a varible so i re check all my code but now it seem set to go**
+
+ ## i'm stoping here and i'm going to make a video to submit my final schematic and code to stardance SO NOW IT'S TIME FOR THE SHOW!!!! see you around  and thank to come this far in my journey <3
+
+
+ # TOTAL HOUR PASS 127h and 24min aproximatvely (youtube video and other not coutable thing doesn't take place in the finaly hour pass
