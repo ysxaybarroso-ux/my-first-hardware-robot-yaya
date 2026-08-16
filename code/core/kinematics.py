@@ -25,5 +25,5 @@ def kenematic_inverse(x,y,z, coxa , cuisse , tibia):
     return math.degrees(theta1) , math.degrees(theta2) , math.degrees(theta3)
 
 if __name__ == "__main__":
-    result = kenematic_inverse(config.x, config.y, config.z, config.coxa, config.cuisse, config.tibia)
+    result = kenematic_inverse(config.x_repos, config.y_repos, config.z_repos, config.coxa, config.cuisse, config.tibia)
     print("helloww world", result)

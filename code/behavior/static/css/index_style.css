@@ -1,0 +1,85 @@
+@font-face {
+    font-family: 'cp_maine';
+    src: url(../font/cyberpunk_maine.ttf); 
+}
+@font-face {
+    font-family: 'tf2';
+    src: url(../font/TITANFALL_FRONTLINE.ttf); 
+}
+h1{
+    font-family :'cp_maine';
+    color:rgb(32, 216, 216);
+    text-decoration: underline;
+    text-decoration-color:yellowgreen;
+}
+#joystick_patte_zone {
+    background-image: url('/static/image/joystick_zone.svg');
+    background-size: contain;
+    width: 200px;
+    height: 200px;
+}
+#joystick_patte {
+    background-image: url('/static/image/joystick_stick.svg');
+    background-size: contain;
+    width: 80px;
+    height: 80px;
+    position: absolute;
+}
+#colonne-gauche{
+    width: 75px;
+    height: auto;
+    background: rgba(86, 185, 20, 0.2);
+    backdrop-filter: blur(8px);
+    border: 2px solid rgba(169, 20, 255, 0.822);
+    box-shadow: 4px;
+    color: rgba(116, 181, 36, 0.977);
+    display: flex;
+    flex-direction: column;
+    font-family: 'tf2';
+    z-index:400;
+}
+header{
+    height: auto;
+    width: 100%;
+    background: rgba(172, 173, 171, 0.207);
+    backdrop-filter: blur(8px);
+    display: flex;
+    margin: 8px;
+    border-radius: 16px;
+    z-index:500
+}
+#shutdown_btn{
+    border: groove 2px whitesmoke ;
+    border-radius: 25px;
+    background-color: red;
+    color :black;
+    font-family: 'tf2';
+}
+#horloge{
+    font-family: 'cp_maine';
+    color :blueviolet;
+}
+#onglet-map{
+    border: 2px solid rgb(166, 13, 255);
+    border-radius: 16px;
+    background-color: rgb(107, 1, 169);
+}
+#onglet-camera{
+    border: 2px solid rgb(166, 13, 255);
+    border-radius: 16px;
+    background-color: rgb(107, 1, 169);
+}
+#onglet-manual{
+    border: 2px solid rgb(166, 13, 255);
+    border-radius: 16px;
+    background-color: rgb(107, 1, 169);
+}
+#camera-preview{
+    display:flex;
+}
+#control-touch{
+    display:none;
+}
+#map-preview{
+    display:none;
+}
