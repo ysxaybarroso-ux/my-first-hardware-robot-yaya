@@ -1,76 +1,52 @@
-﻿use;product;price;ref
-motor;;;
-;;;
-servo motor;"6 servomoteurs de bus série STS3215 12 V  360°couple  30 kg X2
-";292;https://www.amazon.fr/servomoteurs-encodeur-magn%C3%A9tique-pr%C3%A9cision-%C3%A9ducatifs/dp/B0FLPQQ4FR/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=EK8QST769I4K&dib=eyJ2IjoiMSJ9.bO0-KRlSPeQgqdTs_BShPCEHgHZIJ3MqCN2454hsiQau6HUxctjsLQOICXFTwoRdmtygxTpaFs37Hou155x1HZFhxNKL3MGNYfJO3pJH7QxEaKA8vDMXKwkdtzMM9feqb00oMigKdlfHW00afriBAHXYlXgOHaGRzLpJCsVrd9luwtEllAdqAjSwCOq7yfQz.TVMFxZFUHGvQf2jKWUSC_IDa0M7urx4bHnKuH2JCxjo&dib_tag=se&keywords=rcmall+feetech+sts3215+12v+30kg+lot+6+servomoteur&qid=1784163563&sprefix=rcmall+feetech+sts3215+12v+30kg+lot+6+servomoteurs%2Caps%2C187&sr=8-1&ufe=app_do%3Aamzn1.fos.49fccda8-a887-4188-817b-b9a64bb30e43
-servo motor camera;SG90 60°  make the camera turn for tracking;9;https://www.amazon.fr/AZDelivery-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-Moteur-Robots-hubchrauber/dp/B07CYZSVKW/ref=sr_1_10?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3FN65CYOAXJQL&dib=eyJ2IjoiMSJ9.Jkunp_vzCZ7Vv5RpPt7pHTWWT7q_zccDh2QVF4qvqHv6IVnxIAomTG3hnpIDXkdjGs_og0z-XpYBDaHJmcpaI_ND_A_HPLygOXr54ccI6IzymP07T_jQGoO3nSKp03YLx8ZAjFO_bJoI6YnTk6jqM8hxlV7xA_dhcVMUWXdo0sLJno6_acuyqxyPulYxefOlTXkUL1jobQdDZSn4VsqynSv-emv7Qhh2q_Z_Tr7zzD33PxukonRGm8giBPn4qhzyADqPCJInzSRLJw8teFHLHvA_mlBf4t6HhbqCLRsonS4.8AFGfhRAQibc0SAdQ7I9kKX_5bPX3f3XIW6JdThGZEI&dib_tag=se&keywords=Mini%2BServo%2BSG90%2BNum%C3%A9rique%2B9g%2BTowerPro%2BSG90D&qid=1785013398&sprefix=mini%2Bservo%2Bsg90%2Bnum%C3%A9rique%2B9g%2Btowerpro%2Bsg90d%2Caps%2C134&sr=8-10&th=1
-total;;301;
-;;;
-aliemntation;;;
-servomotor;CNHL 3300mAh 11.1V 3S 40C avec prise XT60;17;https://chinahobbyline.com/fr/products/cnhl-3300mah-11-1v-3s-40c-lipo-battery-with-xt60-plug?_pos=1&_sid=f62e50312&_ss=r
-rlipo charger;iMaxB6;36;https://www.amazon.fr/WANGCL-Chargeur-num%C3%A9rique-adaptateur-plomb-acide/dp/B0B3GM8KX9/ref=sr_1_1?adgrpid=63018066224&dib=eyJ2IjoiMSJ9.8SfG9T59AZhLcYgBJ0wyieydr4VbboFNV79KHuh9ngqBVUQTkGm3URLWPV5tfhwcbWwUvB8Dbaw6gVaBPoyxcXWKvMP95myjaL2s0DB4N-5Nkf5X1PZOdYqq7CwWAlH6f_mLbdJRXrN3Izb8pKlYz-fWp1ARgIswNV6nnYI3z-i4QMIeniV9FC2Zu3YKDbmp7LcT8qtznQFLcimja5_fFXun7oZ3E6QoB4UEOdV6JlBb5ef9Bi2ZnOCw2f1wUDEYzuiHjaH2I2bk3FbS2yZ561Ax0mbD0AIfTwj0W_oN3BA.cQOZZd9AAx0v31Uux0XTlA5VzGj4snnhvCWjjnnvYCc&dib_tag=se&hvadid=499010703346&hvdev=c&hvexpln=0&hvlocphy=9056376&hvnetw=g&hvocijid=15618825406571621855--&hvqmt=e&hvrand=15618825406571621855&hvtargid=kwd-329235333524&hydadcr=893_2493716&keywords=imax+b6ac+v2&mcid=b00d2729812231feb768ee4b6bdb884f&qid=1784149373&sr=8-1
-raspberry;same as motor just a adaptation system see below;0;
-founding;;;
-total;;53;
-;;;
-cervo;;;
-main cervo;radxa zero 3w 8g;56;https://shop.allnetchina.cn/products/copy-of-radxa-zero-3w
-motor cervo;waveshare serial bus;12;https://www.amazon.fr/Waveshare-Integrates-Control-Applicable-Integrate/dp/B0CJ6TP3TP/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2FFHH7WI3A16T&dib=eyJ2IjoiMSJ9.0QQbYebMwiyHQl0uwVxaOWJDin7DdwKWCroasVv0r8YSZzbf7Kor-6bIP-y-yKVncXHI9m-Y_AHB3EyWFMHHbCpzemBCdddWpquGNABB5ND6TUxRABjnTiYqcKIlE595PJuXAMTjSZAtoc1ABC4yIJyoBAL8kLVGSXQJyQ5e2gkCst7YqXM4P0WRzjrhkKjVhN1E60RKtGcPDCSy3R7rSZCpC4eKu-UWfr_zjb4a-HPZt3FMxwSZVGODR2y9hua241loTjoNFk3QMi5X-olSRvCvAXrwMy2p7Q48SBY-2B0.R_ryWVxHsJVw7mAO58pRNcqWjtadK9TYACDBKdTlntw&dib_tag=se&keywords=Waveshare+Serial+Bus+Servo+Driver+Board&qid=1784251204&sprefix=waveshare+serial+bus+servo+driver+board%2Caps%2C204&sr=8-1
-heatsink radxa;offical radxa sink;5;https://fr.aliexpress.com/item/1005007877260001.html?src=google&src=google&albch=shopping&acnt=248-630-5778&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&albagn=888888&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=fr1005007877260001&ds_e_product_merchant_id=5308501960&ds_e_product_country=FR&ds_e_product_language=fr&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=19000710609&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=17725339642&gbraid=0AAAAACWaBwfbMtjuHuH9sKMRFTR6VWeyC&gclid=CjwKCAjwsrbTBhAvEiwA0Bpp4WDmzex7pFg3VXQipea3RI-dKi4ltS-8VCTG-LDA_uhxWgABAm99PhoCcgwQAvD_BwE
-radxa ventilateur;3.3v only found in aliexpress i cant found a ethic brand;10;https://fr.aliexpress.com/item/1005006054254172.html
-;;;
-;;;
-;;;
-;;;
-;;;
-total;;83;
-;;;
-;;;
-sensor;;;
-STABILITY;Module 9 DoF BNO055;32;https://www.gotronic.fr/art-module-9-dof-bno055-27795.htm
-distance, obstacle;ldar;120;https://www.gotronic.fr/art-capteur-de-distance-rplidar-a1m8-29031.htm
-multiplexer to make easier;TCA9548A IIC 1,8 V - 5 V 8 canaux I2C;6;https://www.amazon.fr/GERUI-cartes-d%C3%A9rivation-multiplexeur-TCA9548A/dp/B0F37Y8HWV/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=31BKDCG1A75O8&dib=eyJ2IjoiMSJ9.39RdYhq796rUa1hmQbSVM5nTyrkZYy0xg3WK52CaZMYKKdGMf95TproMTYPgRYlD62_YDFHD4pajETiRhFOBRqvvmMvs3hBU0dQsNWdUtHj3HSbUaVX8UR2Q_0hfLS0UTnxup76vrbvlJUqRHkRyecE-4BdLvVMebieToqz0tpLwAt_mCLmm7eJw_KHXzzlZbiJx0g4aKqn5q8QQbJHKwxf2sWTogSms8Yh8fBI2ov2gpouPfMiLtpeg_c39zoJaX7Fmiw3188P2W5PEpRH5PpUrpqBPgIBmw1YnFkTdYQ8.VZqaTNt1bNF_JpYtU_-xO4ZZP-FrwE85MI7_704bRU8&dib_tag=se&keywords=Module+multiplexeur+I2C+DFR0576+%C3%A0+8+canaux+Module+multiplexeur+I2C+bas%C3%A9+sur+un+TCA9548A+permettant+de+raccorder+jusqu%27%C3%A0+8+capteurs+I2C+avec+la+m%C3%AAme+adresse+sur+le+m%C3%AAme+bus+I2C+d%27un+microcontr%C3%B4leur.+8%2C90+%E2%82%AC+TTC+7%2C42+%E2%82%AC+HT+Code+%3A+36123&qid=1784153675&sprefix=module+multiplexeur+i2c+dfr0576+%C3%A0+8+canaux+module+multiplexeur+i2c+bas%C3%A9+sur+un+tca9548a+permettant+de+raccorder+jusqu%27%C3%A0+8+capteurs+i2c+avec+la+m%C3%AAme+adresse+sur+le+m%C3%AAme+bus+i2c+d%27un+microcontr%C3%B4leur.+8%2C90+ttc+7%2C42+ht+code+36123%2Caps%2C199&sr=8-1
-oled (pure looks);0.96 pouc 128x64;7;https://www.amazon.fr/Helilyco-%C3%89cran-Arduino-%C3%A9cran-esp32/dp/B0H71WGG1S/ref=sr_1_5?dib=eyJ2IjoiMSJ9.jdwm-TZBxVLh94ZZ6vdGqkd0IDZyWgyI5k35lOhz0Rqs2-ERSIOIV6dX7_JQHov_mUNFY8cUMQzvEmGn9a99Pn8P9s9tHme_BT2SJNMd7Lj_vWF61ICik9WixTCkjNFynJ9A4CLs8ZY_V6hdYcMBypCWwRTDSoGC0D08dJDKqSP16ezMpnZjBmKSaDxYJIvvhG13kHSV0hf0y4s5TzENkchtSzIRhupK-RzV1Ewv7VmkHYEuFFg7Ej3L-0MpVSPJOf13TrUUwRDuvKuRQyTK5NX72SAApJO4Y5-bvVu5w9w.atJvDhClP-y_iAZagxuVesYT1XkKdKvbQ4Xun9vkWqQ&dib_tag=se&keywords=oled%2B128x64&qid=1786820824&refinements=p_36%3A-1000&rnid=2492331031&sr=8-5&th=1
-camera raspberry;raspeberry module 3;35;https://www.kubii.com/fr/cameras-capteurs/3878-1690-module-camera-v3-raspberry-pi-3272496313699.html?gad_source=1&gad_campaignid=24033934214&gbraid=0AAAAApc7Y9k89IbHZ3t1la-UhZUIYiwe9&gclid=CjwKCAjwpefSBhBvEiwAzyEtZ5ZmTCGofiSQwad2HYpLPQBJjzUF_we9PA6nMOzoV2g6K2OC55Zi-hoCq1EQAvD_BwE
-camera raspberry adaotator;Nappe CSI / MIPI 15 to 22 30cm;9;https://www.amazon.com/dp/B0DQBHNT9C?lv=shuf&channelId=500&plpRedirect=mhFallback
-speaker kit;kit I2S audio amplifer + speaker;9;https://www.amazon.com/dp/B0GV33LRR5?lv=shuf&channelId=500&plpRedirect=mhFallback&th=1
-stt ;microphone;9;https://www.amazon.fr/Microphone-Omnidirectionnel-Enregistrement-Transmission-Electrique/dp/B0GYYQBS34/ref=sr_1_1_sspa?adgrpid=62171879496&dib=eyJ2IjoiMSJ9.brjZqMMDrrRHvnt_m92c34XSqXmV6OV8aO_jOHQzQEJoo9L83dbjyDPmZu-9vNcwBCad-wm0-8rAalVFW68LukKTDbUAHGbDvZdPtU0Knoflk8QT5s1Wd4_b3UiflWXi2LAk6CqeB4mHHXD6hPf3BWNeDmNnerYjqSSUHs_mF8k-ED93Ze0C-jmlsoUYKJf38KapQQ4NLf_QJS3cHoogIp2CgQh2GXM0Rn3bNnv1HbZxrxbD8NlIImi2g2g6TfXHPQzhZmiejd5I8zpEfz_nnJYNQKpgDGFFcj3pRuLrZP0.rojuTPoUDQE2-asi-jPvjvAcJTd5-AH8Wpvfk8cW4jw&dib_tag=se&hvadid=310714367915&hvdev=c&hvexpln=0&hvlocphy=9055055&hvnetw=g&hvocijid=1494477379405652865--&hvqmt=e&hvrand=1494477379405652865&hvtargid=kwd-528219262780&hydadcr=14030_1730247&keywords=inmp441&mcid=0a7caf62588f36e7bcadcf677d060076&qid=1786228193&sr=8-1-spons&aref=YFzPhMXmpy&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
-;;;
-total;;227;
-;;;
-;;;
-cable  material;;;
-3d;;;
-cable waveshare and buck;usb-c to usb-c x 2 data en charge;16;https://www.amazon.fr/Amazon-Basics-tablettes-ordinateurs-portables/dp/B01GGKZ2SC?th=1
-sensor and oled screen;dupont female-female;17;https://www.amazon.fr/Dupont-Breadboard-Mâle-Femelle-Mâle-Mâle-Femelle-Femelle/dp/B0DFCT8RZ7/ref=sr_1_2_sspa?adgrpid=60932846374&dib=eyJ2IjoiMSJ9.4-rNeFeeL5IDbcw6xttMNTxsXC6SLrKUkSwiPOOvHK6ed6XNTPTdhUddIl0ILd5fM54MRY21NwMuZjqLWKgtxmYBvziCtLQ0IarSX3PJdlHYwNf5xzbj0l8YfmVkeOR1Oez0ioZpfW82kAo1UFUT68H7uw3or7Wm7iPGcZuBD9Peas_fVNd41h0oNPoG22xlOXhIkoiQ3yPIg4CaO8Of76q0V-pmOZsHycse49ZmWHngn6jSbjx5cgjizo3JjeSn_9BOMZwhKWXnZ_Ebc7eHFhPTOVgEIv0k76rpw9f2OdY.DaLuZQRvERWOBHPeRmvPv28s7qqpDNGz9vwvinFH0hA&dib_tag=se&hvadid=799292278505&hvdev=c&hvexpln=0&hvlocphy=9056376&hvnetw=g&hvocijid=15816688827743388238--&hvqmt=b&hvrand=15816688827743388238&hvtargid=kwd-2471464198968&hydadcr=4367_2326152&keywords=cable+dupont+femelle+femelle+20cm&mcid=70a66438fb053f0ca154c560ed49730a&qid=1784146936&sr=8-2-spons&aref=v1hh6t5kyv&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
-adaptator radxa;12V to 5V 5A converter board;17;https://www.amazon.fr/Convertisseur-Binghe-Reconnaissance-Compatible-Arduino/dp/B0DJX9GVX6/ref=sr_1_5_sspa?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=HQQ8XQUDPPHV&dib=eyJ2IjoiMSJ9.kFvMDwPnhb169LU9cfq_j6Az3BvHQE5mAWWiirbf3OeW2J6pNaifAlx6Hyu-CaFiyeJcUP3ZfkN8VmXvsfUKKVCBlt5DKaFItbLPtFh_vYK84-EH2y4Z-mex-sqrcv4L7Xdm4GjlZn9b10Z5x-TYyznWMo8kJhCMFQs08EZeWL2eYHNlfYMd3abtAz166thI799K3VE3BfWi-FnHvJ4g9fGqxuoif2ddb77mcIKNZr8x3uTCUKFCFBlMZfZI8HgWm9mIYf5-vE74WhLoHE66SCRAs2V2aupT8_JC1gAxy2w.zHIm-JR1-VSmU9ObNOCcP07cP8JLhJOviBAAb1VbyuU&dib_tag=se&keywords=buck+converter+12v+to+5v&qid=1785351091&sprefix=buck+converter+12v+to+5v%2Caps%2C192&sr=8-5-spons&aref=JMKHTNNt9C&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
-alarm battery protection help;Testeur de Tension 1-8S Indicateur Basse Tension LED Rouge Alarme Reglable;17;https://www.fnac.com/mp50250851/Testeur-de-Tension-1-8S-Indicateur-Basse-Tension-LED-Rouge-Alarme-Reglable-pour-Batterie-Lipo-3-7V-Compatible-Drones-Voitures-RC-Gris-Noir-Plastique/w-4?oref=fe90b927-26ab-257e-dd8e-924cb3e0c9e4&Origin=CMP_GOOGLE_FL_JOUET
-cable puissance awg 1.3mm;3m x 2  12AWG  theres only big length unfotunatly;17;https://www.amazon.fr/QWORK-AWG-mm%C2%B2-Cable-Electrique/dp/B0C9MBMM76/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.gAyza6vtpW61Z57NRNK-M8GzL6h2qC7q27KiqBK2Qezd4FxiauHCaNZyHODeLslz0EZq2r57qosFTaIGj6oSpXI3Ze-1vlzD7GHxklldLIaUaHLf1T77gkayEeup_pV23lgztbh9khMjGuuT5zMG0_Pp-YXVRbM3BoEZ0FdqjOlCaoMjj46UrebHZ1nx0R5-ag5upqMSEPc4OwE46f6qCUITsQop4jj3BjKh2uouxnLlJN9i1M_vIKcMOer8HF7nUTqa3MlS3Mln3CDLOoG_Tik-l9pNsD5_XfWruumBKnY.G1gcpbXWnnKVP54WYmCCxG-BMPxOgG1NFN8teeQLbr0&dib_tag=se&keywords=12%2Bawg%2Bwire&qid=1784587885&sr=8-1-spons&aref=EhI8O03Zui&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
-;;;
-xt60 MALE FOR BATERRY;;7;https://www.amazon.fr/Connecteur-Batterie-Voitures-Panneaux-Solaires/dp/B0FS1GLND9/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.zziqtRqTCZHFpD9zjSpZVFtxCCfnnRgFxksWnknbxn1GRH1UJ6XpJtt_Vcu8ADqOnQna2B2yiNtsRKtvAK6LwIWeN9X_hEDqseBW0A_fiPR9l6DS8Wc2rom16NN6PnCzfM4ScBc4anrZYYGjknPjUDgcD7HUZinc62Axj1rsbLkoZd23G-WrX0rE3tgbCObraIrzWAPel4HExlAUcmYLfUayg5dWkhsrpbPLXCYvqHBJHL4VUs9RHrPKzGoDsqwi-9hAi6nBiMljIIqQch-w0pW69gGtM288_YyI0XJ02b8.8HMfizOuaLkOGqrsoJ6HH3iXYA0Rvxn1Ls6WQmr4myE&dib_tag=se&keywords=Male+Xt60+Connector&qid=1784586789&sr=8-1-spons&aref=xOMZOQT4kc&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
-nappe liasson for camera raspberry;15 to 22 pin *2;9;https://www.amazon.fr/ZDE-c%C3%A2bles-dextension-Raspberry-broches/dp/B0DQ9KYNB3/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1BOMY5G0H51Z9&dib=eyJ2IjoiMSJ9.WNg94zZ-TlK19ISPcirMs-yM_dyGM9JYfwL2G4b1S_HmJ9rjkFvic4xdmm8nKkV162oWuiHfaKxSk11Wcc11_iTDsgb-3icnieygXT7hV-bXHPWQC40kpZM-uaCEch8HpPHeUIzdvjLJqHiT6qSpnYV8OY3cEF6lnS-eyLPBbIYGXMfDm3VZoxh5c-2YAnlT9V1qT48DJ01bITRE7L4VxaeAfV1RV8damckRgubmDFz-_EN9c64RY21-wfqrukZB9Mndv8wGmxzzmvuY4u5OyASpmTqtv_XVr_pYQkPZth8.mZV3KpFTuY6fDAzCK65qgFVQDXoEgIxvSbCD0PcadAI&dib_tag=se&keywords=Camera+Cable+22+-+16+pin+15cm&qid=1785352991&sprefix=camera+cable+22+-+16+pin+15cm%2Caps%2C275&sr=8-1
-test security of  cables;multimetre;18;https://www.amazon.fr/Multim%C3%A8tre-num%C3%A9rique-AstroAI-amplificateur-tension/dp/B0GJSKBLDJ/ref=sr_1_4_sspa?adgrpid=56876276100&dib=eyJ2IjoiMSJ9.ktKD5LoZQik1wY6BPxvVpSQGxS9q9GoMQQAUb9U3ovOksGAeGcMLF7NtD-uERasychc3ZW-dvqptNV6Dz7dI4c5cXIKsQhVX4FCgvoq8BFzm0snaZK75eqPQn2BiEWpwaQ0__teaPrhJeCGNZ1VsorA8fAh7M7lnpLNJ6laIuhdMr-yr2JN_FhZVe4f2OB1bBuSlpjnRFANGUoWAw_agLdQOQeCaGXcfS8ve10JeeFF2qaDPAIXQ4xagV-hxVxjDPxLGBYtcTZq2Ci2esUSw77ljSQZe9K5oQk37Hnp60-4.5vvj-PSmZYtCaZ4YPx0qaYZHUjcabUnNwR8xWmS0gS4&dib_tag=se&hvadid=399020185163&hvdev=c&hvexpln=0&hvlocphy=9056376&hvnetw=g&hvocijid=18388848572569088791--&hvqmt=e&hvrand=18388848572569088791&hvtargid=kwd-298260684668&hydadcr=23866_1973363&keywords=multimetre&mcid=169a13b835783477a1cb33094e97f159&qid=1785353812&sr=8-4-spons&aref=S1WXgRpVLL&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
-test before soldering;dupont wire ( m/F m/m f/f i dunno what will i need);9;https://www.amazon.fr/Elegoo-Breadboard-Femelle-Longueur-Arduino/dp/B01JD5WCG2/ref=sr_1_2_sspa?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3JOJRK0HMI602&dib=eyJ2IjoiMSJ9.cjmjAB8qRNR9Llwct3Zm97Aqo2A0HAgzQaA1b2Aq9uYW8ULfWXfXo10D8AAMde0vyD_YgVaP2W5jQexhdbupMWziEBnJLBrotK4IxoJ-NdKIM5KgutYZcZ1s1iJuUmOukK4yOUoi_t3uqPJRRad0xVbAjkuEnpJL0XMaOd9VYy6s2hCLopmKEVJ8HBaP16bI_YC3PeIlqWSfwO7zG5Al_s7ycMFDEzSxiKgbavldiO62R2u4p75fieQhm9BsHatjAlxOXhKWC0BezHz2Aw1O0OD0yYWNE4R6k0wNUq54R9M.ZrF5cVuyhKWn0xv0Z7QQybRsD5pSABfWzEUEHtHMvFI&dib_tag=se&keywords=fil+dupont&qid=1785355088&s=industrial&sprefix=fil+dupon%2Cindustrial%2C227&sr=1-2-spons&aref=pTIwZ5WZPw&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
-total;;127;
-;;;
-;;;
-;;;
-;;;
-chasis; ;;
-support metal thing;uthex M3 insert fileté - 100 pièces RX-M3x5,7;10;https://www.amazon.fr/ruthex-Insert-filet%C3%A9-100-pi%C3%A8ces/dp/B08BCRZZS3/ref=sxin_17_pa_sp_search_thematic_sspa?content-id=amzn1.sym.eb723798-18fa-400f-9c62-dc005418e8c6%3Aamzn1.sym.eb723798-18fa-400f-9c62-dc005418e8c6&cv_ct_cx=insert%2Bm3&keywords=insert%2Bm3&pd_rd_i=B08BCRZZS3&pd_rd_r=7edaf555-d94d-4c18-8412-66d9a1e6901d&pd_rd_w=XLw0d&pd_rd_wg=44UBL&pf_rd_p=eb723798-18fa-400f-9c62-dc005418e8c6&pf_rd_r=NA9QC3H0CKT71MFT6V2G&qid=1784234886&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-2-6911ff49-5df0-4e24-b896-054e803bb80d-spons&aref=xcRixjbfGm&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1
-metal thing;entroise M3 m/F x 8  20mm ;2,4;https://www.gotronic.fr/art-entretoise-m-f-20mm-bmf20-6549.htm
-metal thing longer;M3 x 45mm 10 Pcs Double through Laiton;20;https://www.amazon.fr/ORANXIN-Entretoises-Filetage-dordinateur-Standoffs/dp/B0DR68DJ65/ref=sr_1_1_sspa?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3DSUOILJCUYKI&dib=eyJ2IjoiMSJ9.qFWv21a2A5ALT2mUDB9-kuSPDzNdSxUAa0jNYFvwMRnak1bXloxdOLaWslrs6CUqp-e86BSlEXxNVeiJWQ1tFz-ExnTWFK0gaUJV1swcULmm3u_zvTE4BybpOaRXVng6a5VOsuIwLTQa3Z3dWH7MY98jnavajoRW0XoDMoIDTtlhOcK3DaUzHg7JdRJkCex6YdsCVweNhit9V0wcNJ1pUHnDIqshMbjBf3-VMMU9zbV7V5Uzd0HyzPF_r9JCQYWxl-28maZqPJAzlh4tW9k8SNhJ4F0j3Dt5aoBfaD-MLqE.Ogbffg7b8E-xPKkFxglKyrtHOwyY84jF2ODp6CNNu6g&dib_tag=se&keywords=entretoise%2BM3%2B45mm%2Blaiton&qid=1784411275&s=industrial&sprefix=entretoise%2Bm3%2B45mm%2Blaito%2Cindustrial%2C576&sr=1-1-spons&aref=ZLLaoy6YpM&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
-support for composant;M2.5 Vis Ecrou et Vis;10;https://www.amazon.fr/Xinrub-Inoxydable-Socket-Assrotment-Ensemble/dp/B07DC8P34R/ref=sr_1_3_sspa?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.YUuaSlMzLzwNoNkHVRQKTzcduQ_mC_YbZQqdQr_Ox0ni0hdff4mGBM74hqkyr1HhGCraQUPIdYfu5DJaZTodTQQrJGYiDFdMRnLtfyxTZf8ZVtWSxuuZWnSiWQ8S94v5Ynlj6zDJMwjcba9OeRcOX2XbOx4N2ocWK411SufRqMyPkZJbBAs9_n5A0unnrrpWtLqDBl0xjBSV62IzJsdxc1r4clOhUckvS4bl_jxDEqh_f4dkaQphVj685RaC-wl30Z4qMd9xn-_QEk8NMhzWkdXXi69nMPvwxPbOyKnOL7A.9F58_dBqMyBn3RqYhMEt5O7TrtPlT0PA4jsuW0mIyHM&dib_tag=se&keywords=vis+M2%2C5+%2B+%C3%A9crou+assortiment&qid=1784480491&sr=8-3-spons&aref=4CQ2LAuRGo&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
-scotch for composant boxes;3M VHB 4611, Ruban Adhésif Mousse Double Face;14;https://www.amazon.fr/3M-4611193-Ruban-Adh%C3%A9sif-Gris/dp/B00EDLV24U/ref=sr_1_4?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3RPUAWV4DN7CI&dib=eyJ2IjoiMSJ9.8gnu4w4Kprdnh2A0YJxz2GXT_Jh-tK6Dln6TzEHf93s43pm4saOGUncsTQJUmxS6wInuANJutEfuFW_uxgFXFAjdkiPC1y4C2burhcNCKH_XiOcwCa2OuHRA7g_sUkROon577v8C-uXKmPOwnshIvoHP8VkVOwJyHQR-3WSVz6fiNxwPIZ4y_n9lkEtc28qXp1A-SKcOPCCniUfPuC9_TFFLCS83_wIg46oqQ5qPGRaM2qCRn00bRLILZQ5gxHTOWqGJ9Cxvb_QopGBmLxD9IkhGtu2u7jwommnSWTL_ZvI.t2ZAyxiCriXbOsDXX73YzQMhfUfLaBr3hab979EFrVw&dib_tag=se&keywords=3M%2B4430%2Bmousse%2Bdouble%2Bface&qid=1784496133&rdc=1&s=industrial&sprefix=3m%2B4430%2Bmousse%2Bdouble%2Bface%2Cindustrial%2C180&sr=1-4&th=1
-3D model;fusion license studient ;0;yippie
-;;;
-total;;56,4;
-tools;;;
-;;;
-;;;
-future;;;
-extern device (first my phone then i create one);;;
-;;;
-;;  ;
-full total;without funding;847,4;
-full total ;with funding;;
+﻿use                        ;product                                        ;price ;ref
+motor                      ;                                               ;      ;
+                           ;                                               ;      ;
+servo motor                ;6 motor serie STS3215 12V 360deg couple 30kg X2;292   ;https://s.id/ubUWi
+servo motor camera         ;SG90 60°  make the camera turn for tracking    ;9     ;https://www.amazon.fr/AZDelivery-Moteur-Robots/dp/B07CYZSVKW/ref=sr_1_10
+total                      ;                                               ;301   ;
+                           ;                                               ;      ;
+aliemntation               ;                                               ;      ;
+servomotor                 ;CNHL 3300mAh 11.1V 3S 40C avec prise XT60      ;17    ;https://s.id/Ub4tE
+rlipo charger              ;iMaxB6                                         ;36    ;https://www.amazon.fr/WANGCL-Chargeur-numerique/dp/B0B3GM8KX9
+radxa                      ;same as motor just a adaptator (below in list) ;0     ;
+total                      ;                                               ;53    ;
+                           ;                                               ;      ;
+cervo                      ;                                               ;      ;
+main cervo                 ;radxa zero 3w 8g                               ;56    ;https://shop.allnetchina.cn/products/copy-of-radxa-zero-3w
+motor cervo                ;waveshare serial bus                           ;12    ;https://www.amazon.fr/Waveshare-Integrates-Control/dp/B0CJ6TP3TP
+heatsink radxa             ;offical radxa sink                             ;5     ;https://fr.aliexpress.com/item/1005007877260001.html
+radxa ventilateur          ;3.3v                                           ;10    ;https://fr.aliexpress.com/item/1005006054254172.html
+total                      ;                                               ;83    ;
+sensor                     ;                                               ;      ;
+STABILITY                  ;Module 9 DoF BNO055                            ;32   ;https://www.gotronic.fr/art-module-9-dof-bno055-27795.htm
+distance obstacle          ;lidar 360deg                                   ;120  ;https://www.gotronic.fr/art-capteur-de-distance-rplidar-a1m8-29031.htm
+multiplexer to make easier ;TCA9548A IIC 1.8 V - 5 V 8 canaux I2C          ;6    ;https://www.amazon.fr/GERUI-cartes/dp/B0F37Y8HWV
+oled (looks)               ;0.96 pouce 128x64                              ;7    ;https://www.amazon.fr/Helilyco-Ecran-Arduino/dp/B0H71WGG1S
+camera                     ;raspeberry module 3                            ;35   ;https://s.id/pDxS9
+camera raspberry adaotator ;Nappe CSI / MIPI 15 to 22 30cm                 ;9    ;https://www.amazon.com/dp/B0DQBHNT9C
+speaker kit                ;kit I2S audio amplifer + speaker               ;9    ;https://www.amazon.com/dp/B0GV33LRR5
+stt                        ;microphone                                     ;9    ;https://www.amazon.fr/Microphone-Omnidirectionnel/dp/B0GYYQBS34
+total                      ;                                               ;227  ;
+cable  material            ;                                               ;     ;
+cable waveshare and buck   ;usb-c to usb-c x 2 data en charge              ;16   ;https://www.amazon.fr/Amazon-Basics-tablettes/dp/B01GGKZ2SC
+sensor and oled screen     ;dupont female-female                           ;17   ;https://www.amazon.fr/Dupont-Breadboard/dp/B0DFCT8RZ7
+adaptator radxa            ;12V to 5V 5A converter board                   ;17   ;https://www.amazon.fr/Convertisseur-Binghe/dp/B0DJX9GVX6
+alarm battery protection   ;Tension Indicator Tension LED Red Alarm        ;17   ;https://www.fnac.com/mp50250851/Testeur-de-Tension-1-8S
+cable puissance awg 1.3mm  ;3m x2 12AWG theres only big length unfotunatly ;17   ;https://www.amazon.fr/QWORK-AWG-mm-Cable-Electrique/dp/B0C9MBMM76
+xt60 MALE FOR BATERRY      ;                                               ;7    ;https://www.amazon.fr/Connecteur-Batterie/dp/B0FS1GLND9
+cable for camera raspberry ;15 to 22pin *2                                 ;9    ;https://www.amazon.fr/ZDE-cables-dextension/dp/B0DQ9KYNB3
+test security cables       ;multimetre                                     ;18   ;https://www.amazon.fr/Multimetre-numerique-AstroAI/dp/B0GJSKBLDJ
+test before soldering      ;dupont wire (m/F f/f )                         ;9    ;https://www.amazon.fr/Elegoo-Breadboard/dp/B01JD5WCG2
+total                      ;                                               ;127  ;
+chasis                     ;                                               ;     ;
+support metal              ; uthex M3 insert filete 100 pieces RX-M3x5 7   ;10   ;https://www.amazon.fr/ruthex-Insert-filete/dp/B08BCRZZS3
+metal thing                ; entroise M3 m/F x 8  20mm                     ;2.4  ;https://www.gotronic.fr/art-entretoise-m-f-20mm-bmf20-6549.htm
+metal thing longer         ; M3 x 45mm 10 Pcs Double through Laiton        ;20   ;https://www.amazon.fr/ORANXIN-Entretoises/dp/B0DR68DJ65
+support for composant      ; M2.5 Vis Ecrou et Vis                         ;10   ;https://www.amazon.fr/Xinrub-Inoxydable-Socket/dp/B07DC8P34R
+scotch for composant boxes ; 3M VHB 4611 Ruban Adhesif Mousse Double Face  ;14   ;https://www.amazon.fr/3M-4611193-Ruban-Adhesif/dp/B00EDLV24U
+3D model                   ;fusion license studient                        ;0    ;yippie
+total                      ;                                               ;56.4 ;
+                           ;                                               ;     ;
+full total                 ;without funding                                ;847.4;
+full total                 ;with funding                                   ;     ;
+ 
