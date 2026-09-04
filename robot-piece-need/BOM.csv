@@ -1,52 +1,52 @@
-﻿use                        ;product                                        ;price ;ref
-motor                      ;                                               ;      ;
-                           ;                                               ;      ;
-servo motor                ;6 motor serie STS3215 12V 360deg couple 30kg X2;292   ;https://s.id/ubUWi
-servo motor camera         ;SG90 60°  make the camera turn for tracking    ;9     ;https://www.amazon.fr/AZDelivery-Moteur-Robots/dp/B07CYZSVKW/ref=sr_1_10
-total                      ;                                               ;301   ;
-                           ;                                               ;      ;
-aliemntation               ;                                               ;      ;
-servomotor                 ;CNHL 3300mAh 11.1V 3S 40C avec prise XT60      ;17    ;https://s.id/Ub4tE
-rlipo charger              ;iMaxB6                                         ;36    ;https://www.amazon.fr/WANGCL-Chargeur-numerique/dp/B0B3GM8KX9
-radxa                      ;same as motor just a adaptator (below in list) ;0     ;
-total                      ;                                               ;53    ;
-                           ;                                               ;      ;
-cervo                      ;                                               ;      ;
-main cervo                 ;radxa zero 3w 8g                               ;56    ;https://shop.allnetchina.cn/products/copy-of-radxa-zero-3w
-motor cervo                ;waveshare serial bus                           ;12    ;https://www.amazon.fr/Waveshare-Integrates-Control/dp/B0CJ6TP3TP
-heatsink radxa             ;offical radxa sink                             ;5     ;https://fr.aliexpress.com/item/1005007877260001.html
-radxa ventilateur          ;3.3v                                           ;10    ;https://fr.aliexpress.com/item/1005006054254172.html
-total                      ;                                               ;83    ;
-sensor                     ;                                               ;      ;
-STABILITY                  ;Module 9 DoF BNO055                            ;32   ;https://www.gotronic.fr/art-module-9-dof-bno055-27795.htm
-distance obstacle          ;lidar 360deg                                   ;120  ;https://www.gotronic.fr/art-capteur-de-distance-rplidar-a1m8-29031.htm
-multiplexer to make easier ;TCA9548A IIC 1.8 V - 5 V 8 canaux I2C          ;6    ;https://www.amazon.fr/GERUI-cartes/dp/B0F37Y8HWV
-oled (looks)               ;0.96 pouce 128x64                              ;7    ;https://www.amazon.fr/Helilyco-Ecran-Arduino/dp/B0H71WGG1S
-camera                     ;raspeberry module 3                            ;35   ;https://s.id/pDxS9
-camera raspberry adaotator ;Nappe CSI / MIPI 15 to 22 30cm                 ;9    ;https://www.amazon.com/dp/B0DQBHNT9C
-speaker kit                ;kit I2S audio amplifer + speaker               ;9    ;https://www.amazon.com/dp/B0GV33LRR5
-stt                        ;microphone                                     ;9    ;https://www.amazon.fr/Microphone-Omnidirectionnel/dp/B0GYYQBS34
-total                      ;                                               ;227  ;
-cable  material            ;                                               ;     ;
-cable waveshare and buck   ;usb-c to usb-c x 2 data en charge              ;16   ;https://www.amazon.fr/Amazon-Basics-tablettes/dp/B01GGKZ2SC
-sensor and oled screen     ;dupont female-female                           ;17   ;https://www.amazon.fr/Dupont-Breadboard/dp/B0DFCT8RZ7
-adaptator radxa            ;12V to 5V 5A converter board                   ;17   ;https://www.amazon.fr/Convertisseur-Binghe/dp/B0DJX9GVX6
-alarm battery protection   ;Tension Indicator Tension LED Red Alarm        ;17   ;https://www.fnac.com/mp50250851/Testeur-de-Tension-1-8S
-cable puissance awg 1.3mm  ;3m x2 12AWG theres only big length unfotunatly ;17   ;https://www.amazon.fr/QWORK-AWG-mm-Cable-Electrique/dp/B0C9MBMM76
-xt60 MALE FOR BATERRY      ;                                               ;7    ;https://www.amazon.fr/Connecteur-Batterie/dp/B0FS1GLND9
-cable for camera raspberry ;15 to 22pin *2                                 ;9    ;https://www.amazon.fr/ZDE-cables-dextension/dp/B0DQ9KYNB3
-test security cables       ;multimetre                                     ;18   ;https://www.amazon.fr/Multimetre-numerique-AstroAI/dp/B0GJSKBLDJ
-test before soldering      ;dupont wire (m/F f/f )                         ;9    ;https://www.amazon.fr/Elegoo-Breadboard/dp/B01JD5WCG2
-total                      ;                                               ;127  ;
-chasis                     ;                                               ;     ;
-support metal              ; uthex M3 insert filete 100 pieces RX-M3x5 7   ;10   ;https://www.amazon.fr/ruthex-Insert-filete/dp/B08BCRZZS3
-metal thing                ; entroise M3 m/F x 8  20mm                     ;2.4  ;https://www.gotronic.fr/art-entretoise-m-f-20mm-bmf20-6549.htm
-metal thing longer         ; M3 x 45mm 10 Pcs Double through Laiton        ;20   ;https://www.amazon.fr/ORANXIN-Entretoises/dp/B0DR68DJ65
-support for composant      ; M2.5 Vis Ecrou et Vis                         ;10   ;https://www.amazon.fr/Xinrub-Inoxydable-Socket/dp/B07DC8P34R
-scotch for composant boxes ; 3M VHB 4611 Ruban Adhesif Mousse Double Face  ;14   ;https://www.amazon.fr/3M-4611193-Ruban-Adhesif/dp/B00EDLV24U
-3D model                   ;fusion license studient                        ;0    ;yippie
-total                      ;                                               ;56.4 ;
-                           ;                                               ;     ;
-full total                 ;without funding                                ;847.4;
-full total                 ;with funding                                   ;     ;
- 
+﻿use                        ,product                                        ,price ,ref
+motor                      ,                                               ,      ,
+                           ,                                               ,      ,
+servo motor                ,6 motor serie STS3215 12V 360deg couple 30kg X2,292   ,https://s.id/ubUWi
+servo motor camera         ,SG90 60ø  make the camera turn for tracking    ,9     ,https://www.amazon.fr/AZDelivery-Moteur-Robots/dp/B07CYZSVKW/ref=sr_1_10
+total                      ,                                               ,301   ,
+                           ,                                               ,      ,
+aliemntation               ,                                               ,      ,
+servomotor                 ,CNHL 3300mAh 11.1V 3S 40C avec prise XT60      ,17    ,https://s.id/Ub4tE
+rlipo charger              ,iMaxB6                                         ,36    ,https://www.amazon.fr/WANGCL-Chargeur-numerique/dp/B0B3GM8KX9
+radxa                      ,same as motor just a adaptator (below in list) ,0     ,
+total                      ,                                               ,53    ,
+                           ,                                               ,      ,
+cervo                      ,                                               ,      ,
+main cervo                 ,radxa zero 3w 8g                               ,56    ,https://shop.allnetchina.cn/products/copy-of-radxa-zero-3w
+motor cervo                ,waveshare serial bus                           ,12    ,https://www.amazon.fr/Waveshare-Integrates-Control/dp/B0CJ6TP3TP
+heatsink radxa             ,offical radxa sink                             ,5     ,https://fr.aliexpress.com/item/1005007877260001.html
+radxa ventilateur          ,3.3v                                           ,10    ,https://fr.aliexpress.com/item/1005006054254172.html
+total                      ,                                               ,83    ,
+sensor                     ,                                               ,      ,
+STABILITY                  ,Module 9 DoF BNO055                            ,32    ,https://www.gotronic.fr/art-module-9-dof-bno055-27795.htm
+distance obstacle          ,lidar 360deg                                   ,120   ,https://www.gotronic.fr/art-capteur-de-distance-rplidar-a1m8-29031.htm
+multiplexer to make easier ,TCA9548A IIC 1.8 V - 5 V 8 canaux I2C          ,6     ,https://www.amazon.fr/GERUI-cartes/dp/B0F37Y8HWV
+oled (looks)               ,0.96 pouce 128x64                              ,7     ,https://www.amazon.fr/Helilyco-Ecran-Arduino/dp/B0H71WGG1S
+camera                     ,raspeberry module 3                            ,35    ,https://s.id/pDxS9
+camera raspberry adaotator ,Nappe CSI / MIPI 15 to 22 30cm                 ,9     ,https://www.amazon.com/dp/B0DQBHNT9C
+speaker kit                ,kit I2S audio amplifer + speaker               ,9     ,https://www.amazon.com/dp/B0GV33LRR5
+stt                        ,microphone                                     ,9     ,https://www.amazon.fr/Microphone-Omnidirectionnel/dp/B0GYYQBS34
+total                      ,                                               ,227   ,
+cable  material            ,                                               ,      ,
+cable waveshare and buck   ,usb-c to usb-c x 2 data en charge              ,16    ,https://www.amazon.fr/Amazon-Basics-tablettes/dp/B01GGKZ2SC
+sensor and oled screen     ,dupont female-female                           ,17    ,https://www.amazon.fr/Dupont-Breadboard/dp/B0DFCT8RZ7
+adaptator radxa            ,12V to 5V 5A converter board                   ,17    ,https://www.amazon.fr/Convertisseur-Binghe/dp/B0DJX9GVX6
+alarm battery protection   ,Tension Indicator Tension LED Red Alarm        ,17    ,https://www.fnac.com/mp50250851/Testeur-de-Tension-1-8S
+cable puissance awg 1.3mm  ,3m x2 12AWG theres only big length unfotunatly ,17    ,https://www.amazon.fr/QWORK-AWG-mm-Cable-Electrique/dp/B0C9MBMM76
+xt60 MALE FOR BATERRY      ,                                               ,7     ,https://www.amazon.fr/Connecteur-Batterie/dp/B0FS1GLND9
+cable for camera raspberry ,15 to 22pin *2                                 ,9     ,https://www.amazon.fr/ZDE-cables-dextension/dp/B0DQ9KYNB3
+test security cables       ,multimetre                                     ,18    ,https://www.amazon.fr/Multimetre-numerique-AstroAI/dp/B0GJSKBLDJ
+test before soldering      ,dupont wire (m/F f/f )                         ,9     ,https://www.amazon.fr/Elegoo-Breadboard/dp/B01JD5WCG2
+total                      ,                                               ,127   ,
+chasis                     ,                                               ,      ,
+support metal              , uthex M3 insert filete 100 pieces RX-M3x5 7   ,10    ,https://www.amazon.fr/ruthex-Insert-filete/dp/B08BCRZZS3
+metal thing                , entroise M3 m/F x 8  20mm                     ,2.4   ,https://www.gotronic.fr/art-entretoise-m-f-20mm-bmf20-6549.htm
+metal thing longer         , M3 x 45mm 10 Pcs Double through Laiton        ,20    ,https://www.amazon.fr/ORANXIN-Entretoises/dp/B0DR68DJ65
+support for composant      , M2.5 Vis Ecrou et Vis                         ,10    ,https://www.amazon.fr/Xinrub-Inoxydable-Socket/dp/B07DC8P34R
+scotch for composant boxes , 3M VHB 4611 Ruban Adhesif Mousse Double Face  ,14    ,https://www.amazon.fr/3M-4611193-Ruban-Adhesif/dp/B00EDLV24U
+3D model                   ,fusion license studient                        ,0     ,yippie
+total                      ,                                               ,56.4  ,
+                           ,                                               ,      ,
+full total                 ,without funding                                ,847.4 ,
+full total                 ,with funding                                   ,      ,
+                           ,                                               ,      ,

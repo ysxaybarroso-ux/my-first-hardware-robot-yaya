@@ -661,7 +661,7 @@
         "uuid": "20a2ca07-5d70-4612-a958-616bd29039a9"
       }
     ],
-    "used_designators": "#PWR1,BT1,BZ1,J1-12",
+    "used_designators": "amplifer1,#PWR1,BT1,lidar1,BZ1,J1-12,camera1,buck1,microphone1,mux1,OLED1,SG90_cam1,speaker1,tension_buzzer1,waveshare1",
     "variants": []
   },
   "sheets": [
